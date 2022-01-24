@@ -13,7 +13,7 @@ inputs:
     required: true
     default: "Mona the Octocat"
 
-  thrid-greeting:
+  third-greeting:
     description: "a third greeting"
     required: false
 
